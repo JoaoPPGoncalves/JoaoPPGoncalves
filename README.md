@@ -16,11 +16,6 @@ Welcome to my GitHub profile! I am a Master's student in Information Systems Eng
 - **Web Development:** HTML, CSS, JavaScript
 - **Languages:** Portuguese (Native), English (Intermediate)
 
-## 📫 Contact
-
-- **LinkedIn:** [linkedin.com/in/joaogoncalvesgsi](https://www.linkedin.com/in/joaogoncalvesgsi/)
-- **Email:** [joaogoncalvesgsi@gmail.com](mailto:joaogoncalvesgsi@gmail.com)
-
 ## 🎯 Areas of Interest
 
 - **Software Engineering**
@@ -28,6 +23,11 @@ Welcome to my GitHub profile! I am a Master's student in Information Systems Eng
 - **Data Engineering**
 - **Data Analysis**
 - **Data Science**
+
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/joaogoncalvesgsi](https://www.linkedin.com/in/joaogoncalvesgsi/)
+- **Email:** [joaogoncalvesgsi@gmail.com](mailto:joaogoncalvesgsi@gmail.com)
 ---
 
 **João Gonçalves**
