@@ -31,5 +31,3 @@ Welcome to my GitHub profile! I am a Master's student in Information Systems Eng
   <a href="https://www.linkedin.com/in/joaogoncalvesgsi/"><img src="https://img.shields.io/badge/-João Gonçalves-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/jocca11/?hl=pt"><img src="https://img.shields.io/badge/-@jocca11-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
----
