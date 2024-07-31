@@ -33,5 +33,3 @@ Welcome to my GitHub profile! I am a Master's student in Information Systems Eng
 </p>
 
 ---
-
-**João Gonçalves**
