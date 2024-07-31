@@ -1,14 +1,14 @@
 # Hello, I'm João Gonçalves 👋
 
-Welcome to my GitHub profile! I am a Master's student in Information Systems Engineering and Management at the University of Minho, and I work at CCG/ZGDV - ICT Innovation Institute. I have a great interest in technological and mathematical areas, and I am always looking for new challenges to expand my knowledge and skills.
+Welcome to my GitHub profile! I am a Master's student in Information Systems Engineering and Management at the [University of Minho](https://www.linkedin.com/school/eeuminho/) and I work at the [CCG/ZGDV - ICT Innovation Institute](https://www.linkedin.com/company/ccg-zgdv-institute/mycompany/). I have a great interest in technological and mathematical areas, and I am always looking for new challenges to expand my knowledge and skills.
 
 ## 🚀 About Me
 
-- 🎓 Master's student in Information Systems Engineering and Management at the University of Minho - 2nd Year (Current)
-- 💼 Working at CCG/ZGDV - ICT Innovation Institute.
-- 🏆 Winner of the “CPES 2023-24 Edition 1st Semester” award in the Technology and Key Areas category.
-- ⚡ Member of the Junior STAFF of EEUM from 2022 to 2023.
-- 🌐 Participated in various events and networking programs, including the Employment Day at the University of Minho.
+- 🎓 Master's student in Information Systems Engineering and Management at the - 2nd Year (Current) 
+- 💼 Working at CCG/ZGDV - ICT Innovation Institute. 
+- 🏆 Winner of the “CPES 2023-24 Edition 1st Semester” award in the Technology and Key Areas category. <a href="https://www.linkedin.com/in/joaogoncalvesgsi/overlay/1706749122950/single-media-viewer/?profileId=ACoAADmXSL8BKW04VkP4PXEVDTeIetKV6IpAQzU"><img src="https://img.shields.io/badge/-CPES%20Award-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="CPES Award"/></a>
+- ⚡ Member of the Junior STAFF of EEUM from 2022 to 2023. <a href="https://www.linkedin.com/in/joaogoncalvesgsi/overlay/1635523927150/single-media-viewer/?profileId=ACoAADmXSL8BKW04VkP4PXEVDTeIetKV6IpAQzU"><img src="https://img.shields.io/badge/-Junior%20STAFF-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Junior STAFF"/></a>
+- 📦 Logistics Department Collaborator at AIS.SC UMinho · Temporary (Mar 2023 - Sep 2023) · 7 months <a href="https://www.linkedin.com/company/ais-sc-uminho/posts/?feedView=all"><img src="https://img.shields.io/badge/-AIS.SC%20UMinho-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="AIS.SC UMinho"/></a>
 
 ## 🛠 Skills
 
