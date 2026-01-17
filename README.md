@@ -31,6 +31,7 @@ Teamwork • Communication • Proactivity • Organisation • Critical Thinkin
 🇵🇹 **Portuguese (Native)**  
 
 ██████████████████████████ 100%
+
 🇬🇧 **English (Intermediate B2)**  
 
 ███████████████████░░░░░░ 70%
