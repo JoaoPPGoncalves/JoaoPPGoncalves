@@ -29,10 +29,8 @@ Welcome to my GitHub profile! I hold a Master’s degree in Information Systems 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-### 🤝 Soft Skills  
-Teamwork • Communication • Proactivity • Organisation • Critical Thinking  
-### 🌍 Languages  
 
+### 🌍 Languages  
 🇵🇹 **Portuguese (Native)**  
 ██████████████████████████ 100%
 
@@ -40,7 +38,6 @@ Teamwork • Communication • Proactivity • Organisation • Critical Thinkin
 ███████████████████░░░░░░ 70%
 
 ## 🎯 Areas of Interest
-
 - **Machine Learning Engineer**
 - **Data Engineer**
 - **Data Analyst**
@@ -48,7 +45,6 @@ Teamwork • Communication • Proactivity • Organisation • Critical Thinkin
 - **Software Engineer**
 
 ## 📫 Contact
-
 <p align="left">
   <a href="mailto:joaogoncalvesgsi@gmail.com"><img src="https://img.shields.io/badge/-joaogoncalvesgsi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/joaogoncalvesgsi/"><img src="https://img.shields.io/badge/-João Gonçalves-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
