@@ -19,21 +19,16 @@ Welcome to my GitHub profile! I hold a Master’s degree in Information Systems 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ### 🤖 Data & AI  
 Machine Learning • Data Analysis • Data Modeling  
-
 ### 🤝 Soft Skills  
 Teamwork • Communication • Proactivity • Organisation • Critical Thinking  
-
 ### 🌍 Languages  
 
 🇵🇹 **Portuguese (Native)**  
-
 ██████████████████████████ 100%
 
 🇬🇧 **English (Intermediate B2)**  
-
 ███████████████████░░░░░░ 70%
 
 ## 🎯 Areas of Interest
