@@ -12,19 +12,28 @@ Welcome to my GitHub profile! I hold a Master’s degree in Information Systems 
 
 ## 🛠 Skills
 
-- **Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+### 💻 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Data & AI:** Machine Learning • Data Analysis • Data Modeling  
+### 🤖 Data & AI  
+Machine Learning • Data Analysis • Data Modeling  
 
-- **Soft Skills:** Teamwork • Communication • Proactivity • Organisation • Critical Thinking  
+### 🤝 Soft Skills  
+Teamwork • Communication • Proactivity • Organisation • Critical Thinking  
 
-- **Languages:** 🇵🇹 Native | 🇬🇧 Intermediate
+### 🌍 Languages  
+
+🇵🇹 **Portuguese (Native)**  
+
+██████████████████████████ 100%
+🇬🇧 **English (Intermediate B2)**  
+
+███████████████████░░░░░░ 70%
 
 ## 🎯 Areas of Interest
 
