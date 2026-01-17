@@ -12,9 +12,19 @@ Welcome to my GitHub profile! I hold a Master’s degree in Information Systems 
 
 ## 🛠 Skills
 
-- **Programming Languages:** Python, Java, JavaScript, HTML, CSS, C
-- **Web Development:** HTML, CSS, JavaScript
-- **Languages:** Portuguese (Native), English (Intermediate)
+- **Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+
+- **Data & AI:** Machine Learning • Data Analysis • Data Modeling  
+
+- **Soft Skills:** Teamwork • Communication • Proactivity • Organisation • Critical Thinking  
+
+- **Languages:** 🇵🇹 Native | 🇬🇧 Intermediate
 
 ## 🎯 Areas of Interest
 
