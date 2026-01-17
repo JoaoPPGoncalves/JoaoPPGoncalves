@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I hold a Master’s degree in Information Systems 
 - ⚡ Member of the Junior STAFF of EEUM from 2022 to 2023. <a href="https://www.linkedin.com/in/joaogoncalvesgsi/overlay/1635523927150/single-media-viewer/?profileId=ACoAADmXSL8BKW04VkP4PXEVDTeIetKV6IpAQzU"><img src="https://img.shields.io/badge/-Junior%20STAFF-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Junior STAFF"/></a>
 - 📦 Logistics Department Collaborator at AIS.SC UMinho in 2022/2023 <a href="https://www.linkedin.com/company/ais-sc-uminho/posts/?feedView=all"><img src="https://img.shields.io/badge/-AIS.SC%20UMinho-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="AIS.SC UMinho"/></a>
 
-## 🛠 Skills
+## 
 
 ### 💻 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
